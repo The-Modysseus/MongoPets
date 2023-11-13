@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace MongoPets.Models
 {
 	[BsonIgnoreExtraElements]
-	public class Persons
+	public class Person
 	{
 		
 		[BsonId]
